@@ -21,6 +21,7 @@ rich = ">=13.4.2"
 textual = "^0.42.0"
 tqdm = ">=4.65.0"
 appdirs = ">=1.4.4"
+cryptography = "^41.0.7"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = ">=2.13.0"
